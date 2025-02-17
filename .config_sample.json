@@ -1,0 +1,14 @@
+{
+    "inven": {
+        "lastNum": 0,
+        "finder": [
+            {
+                "name": "사장팟",
+                "keywords": [
+                    "사장"
+                ],
+                "webhook": "쓰다 거미줄갈고리 주소 여기에"
+            }
+        ]
+    }
+}

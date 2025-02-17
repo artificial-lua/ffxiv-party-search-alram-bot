@@ -1,0 +1,7 @@
+version: '3'
+services:
+  ffxiv-party-search:
+    build: .
+    restart: always
+    volumes:
+      - ./.config.json:/app/.config.json
